@@ -1,9 +1,5 @@
-# Assignment Description
+# Fortnite game AA '23
 
-written by 
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Fortnite-AA)](https://repl.it/github/athenian-ct-projects/Fortnite-AA)
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* Not sure what this does or where it goes.
